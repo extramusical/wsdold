@@ -22,6 +22,10 @@ div {
 	float: left;
 }
 
+h2 { 
+	align: left;
+}
+
 p {
    color: red;
 }

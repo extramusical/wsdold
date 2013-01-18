@@ -1,3 +1,13 @@
+li {
+	width: 100px;
+	color: blue;
+	float: right;
+}
+
 p {
    color: red;
+}
+
+nav {
+
 }

@@ -1,12 +1,17 @@
 body {
 	margin: 0 auto;
 	width: 960px;
+	background: light green;
+}
+
+img {
+	float: left;
 }
 
 li {
 	width: 100px;
 	color: blue;
-	float: left;
+	float: right;
 }
 
 p {
@@ -17,3 +22,4 @@ a {
 	text decoration: none;
 	background: #fff
 }
+

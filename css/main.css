@@ -1,13 +1,14 @@
 li {
 	width: 100px;
 	color: blue;
-	float: right;
+	float: left;
 }
 
 p {
    color: red;
 }
 
-nav {
-
+a {
+	text decoration: none;
+	background: #fff
 }

@@ -6,13 +6,15 @@ img {
 	float: left;
 }
 
+
+h1 {
+	float: left;
+}
+
+
 li {
 	width: 100px;
 	color: blue;
-	float: right;
-}
-
-h1 {
 	float: left;
 }
 

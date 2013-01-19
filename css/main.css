@@ -26,10 +26,11 @@ h2 {
 p {
    color: red;
    float: right;
+   background: #666;
 }
 
 a {
 	text decoration: none;
-	background: #fff
+	background: #666;
 }
 

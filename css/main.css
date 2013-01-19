@@ -1,5 +1,10 @@
+header {
+	font-family: 'Donegal One', serif;
+}
+
 body {
 	width: 960px;
+	font-family: 'Donegal One', serif;
 }
 
 img {
@@ -31,6 +36,5 @@ p {
 
 a {
 	text decoration: none;
-	background: #666;
 }
 

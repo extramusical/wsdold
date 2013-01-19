@@ -27,6 +27,11 @@ li {
 	float: left;
 	padding: 20px;
 	background: blue;
+	
+}
+
+a:hover {
+	color:#FF00FF;
 }
 
 h2 { 

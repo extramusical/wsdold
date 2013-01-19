@@ -45,7 +45,7 @@ a {
 	width: 100px;
 	color: white;
 	float: right;
-	text decoration: none;
-	padding: 15px;
+	background: #666;
+	padding: 20px;
 }
 

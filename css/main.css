@@ -23,10 +23,10 @@ h1 {
 
 li {
 	width: 100px;
-	color: blue;
+	color: white;
 	float: left;
 	padding: 20px;
-	background: #666;
+	background: blue;
 }
 
 h2 { 
@@ -35,17 +35,17 @@ h2 {
 }
 
 p {
-   color: blue;
+   color: white;
    float: right;
-   background: #666;
+   background: blue;
    padding: 5px;
 }
 
 a {
 	width: 100px;
-	color: blue;
+	color: white;
 	float: right;
-	background: #666;
+	background: blue;
 	padding: 20px;
 }
 

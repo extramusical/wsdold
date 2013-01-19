@@ -17,12 +17,12 @@ h1 {
 }
 
 h2 { 
-	align: left;
+	align: right;
 }
 
 p {
    color: red;
-   float: left;
+   float: right;
 }
 
 a {

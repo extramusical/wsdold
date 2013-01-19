@@ -16,7 +16,7 @@ img {
 
 h1 {
 	float: left;
-	font color: white;
+	color: white;
 	padding: 5px;
 }
 
@@ -42,7 +42,7 @@ p {
 }
 
 a {
-	width: 100px;
+	width: 140px;
 	color: white;
 	float: right;
 	background: blue;

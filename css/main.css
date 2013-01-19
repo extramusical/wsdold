@@ -9,12 +9,14 @@ body {
 
 img {
 	float: left;
+	padding: 5px;
 }
 
 
 h1 {
 	float: left;
-	color: light blue;
+	font color: green;
+	padding: 5px;
 }
 
 
@@ -22,19 +24,23 @@ li {
 	width: 100px;
 	color: blue;
 	float: left;
+	padding: 5px;
 }
 
 h2 { 
 	align: right;
+	padding: 5px;
 }
 
 p {
    color: red;
    float: right;
    background: #666;
+   padding: 5px;
 }
 
 a {
 	text decoration: none;
+	padding: 5px;
 }
 
